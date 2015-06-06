@@ -1,3 +1,3 @@
 var numero = Math.random();
 
-console.log("El numero generado para la rama testing: " + numero);
+console.log("El numero generado para la rama testing descartar: " + numero);
